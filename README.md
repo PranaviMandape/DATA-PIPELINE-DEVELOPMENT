@@ -1,1 +1,9 @@
 # DATA-PIPELINE-DEVELOPMENT
+
+Company: CODTECH IT SOLUTIONS PVT.LTD
+NAME: Mandape Pranavi Vilas
+INTERN ID: CT04DG1467
+DOMAIN: Data Science
+DURATION: 4 weeks 
+MENTOR: Neela Santhosh Kumar  
+
